@@ -1,0 +1,25 @@
+body{
+  background-size: cover;
+  }
+
+#imgLogo{
+  width: 200px;
+  height: 200px;
+}
+
+#containerLogos{
+  display: flex;
+  padding-top: 700px;
+  background-color: rgba(240, 248, 255, 0);
+  justify-content: center;
+}
+
+img{
+  width: 125px;
+  height: 125px;
+}
+
+a{
+  margin-right: 25px;
+  background-color: #5555559f;
+}
