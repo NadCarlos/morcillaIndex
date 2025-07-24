@@ -3,7 +3,7 @@ image_array = [
   'bercouli.png', 'fives.png', 'franky.webp', 'gauma.jpg', 'geese.png', 'himmel.webp', //6
   'hinata.jpg', 'kanna.png', 'klein.jpeg', 'kotaro.jpg', 'lewis.jpeg', 'maki.jpg', //6
   'medina.png', 'mumen_rider.jpg', 'qrow.jpg', 'ray.jpg', 'rengoku.png', 'sasha.webp', //6
-  'suwa.jpg', //1
+  'suwa.jpg', 'faldio.jpg',//2
 ]//19
 
 function get_random_image(){
