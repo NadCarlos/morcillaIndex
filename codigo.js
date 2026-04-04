@@ -1,6 +1,6 @@
 // Get all the images
 image_array = [
-  'yurippe.jpeg', 'chise.png', 'emma.png', 'erika.png', 'eriri.jpg', 'haruhi.jpg', //6
+  'yurippe.jpeg', 'chise.png', 'emma.png', 'nabe.png', 'eriri.jpg', 'haruhi.jpg', //6
   'hinata.png', 'jibril.jpg', 'kyaru.png', 'megumin.jpg', 'midori.jpg', 'mimimi.jpg', //6
   'nodoka.png', 'olivia.png', 'rebecca.jpg', 'rem.jpg', 'rumia.jpg', 'sinon.jpg', //6
   'tatsumaki.jpg', 'tsukimi.png', 'weiss.jpg', 'yui.jpeg', 'yume.jpg', 'nowa.png', //6
