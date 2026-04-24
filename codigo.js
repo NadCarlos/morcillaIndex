@@ -5,8 +5,8 @@ image_array = [
   'nodoka.png', 'olivia.png', 'rebecca.jpg', 'rem.jpg', 'rumia.jpg', 'sinon.jpg', //6
   'tatsumaki.jpg', 'tsukimi.png', 'weiss.jpg', 'yui.jpeg', 'yume.jpg', 'nowa.png', //6
   'serina.png', 'mieruko.png', 'kani.png', 'alice.png', 'futaba.png', 'hayasaka.png', //6
-  'konami.png', 'marija.png', 'subaru.png', 'ume.png', 'yumechi.png', //5
-]//35
+  'konami.png', 'marija.png', 'subaru.png', 'ume.png', 'yumechi.png', 'touko.png',//6
+]//36
 
 function get_random_image(){
   // Get a random index
