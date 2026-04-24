@@ -18,3 +18,8 @@ function get_random_image(){
   // Display the image
   document.body.background = `wallpapers/${selected_image}`
 }
+
+function get_fixed_image(index){
+  selected_image = image_array[index]
+  document.body.background = `wallpapers/${selected_image}`
+}
