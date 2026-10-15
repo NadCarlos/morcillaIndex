@@ -23,3 +23,19 @@ a{
   margin-right: 25px;
   background-color: #5555559f;
 }
+
+.hidden-form {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 9999;
+}
+
+.hidden-form input[type="submit"] {
+    all: unset;
+    width: 150px;
+    height: 150px;
+    cursor: default;
+    background: transparent;
+    border: none;
+}

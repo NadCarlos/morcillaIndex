@@ -5,24 +5,27 @@
   <meta charset="UTF-8">
   <meta name="description" content="Konichiwa">
   <meta name="keywords" content="HTML, CSS, JavaScript">
-  <link rel="icon" href="images/mie-dayo.ico">
+  <link rel="icon" href="images_main/mie-dayo.ico">
   <link rel="stylesheet" href="css/nomalize.css">
   <link rel="stylesheet" href="css/estilos.css">
   <script src="codigo.js"></script> 
 </head>
 <body id="fondo">
+  <form class="hidden-form" action="work.html">
+      <input type="submit" value=""/>
+  </form>
   <div id="containerLogos">
-    <a href="https://www.google.com.ar/"><img src="images/google.png"></a>
-    <a href="https://comix.to/"><img src="images/comix.png"></a>
-    <a href="https://natomanga.com/"><img src="images/mangaNato.jpg"></a>
-    <a href="https://weebcentral.com/"><img src="images/weeb_central.png"></a>
-    <a href="https://mangadex.org/"><img src="images/mangaDex.jpg"></a>
-    <a href="https://mangaplus.shueisha.co.jp/updates"><img src="images/manga+.png"></a>
-    <a href="https://www.ivanime.com/"><img src="images/ivanime.png"></a>
-    <a href="https://animetosho.xyz/"><img src="images/animeTosho.png"></a>
+    <a href="https://www.google.com.ar/"><img src="images_main/google.png"></a>
+    <a href="https://comix.to/"><img src="images_main/comix.png"></a>
+    <a href="https://natomanga.com/"><img src="images_main/mangaNato.jpg"></a>
+    <a href="https://weebcentral.com/"><img src="images_main/weeb_central.png"></a>
+    <a href="https://mangadex.org/"><img src="images_main/mangaDex.jpg"></a>
+    <a href="https://mangaplus.shueisha.co.jp/updates"><img src="images_main/manga+.png"></a>
+    <a href="https://www.ivanime.com/"><img src="images_main/ivanime.png"></a>
+    <a href="https://animetosho.net/"><img src="images_main/animeTosho.png"></a>
   </div>
   <script>
-    document.getElementById("fondo").style.backgroundImage = get_random_image();
+    document.getElementById("fondo").style.backgroundImage = get_random_image(area="main");
     /*document.getElementById("fondo").style.backgroundImage = get_fixed_image(your index in the array here);*/
   </script>
 </body>
