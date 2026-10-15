@@ -1,5 +1,5 @@
 // Get all the images
-image_array = [
+image_array_main = [
   'yurippe.jpeg', 'chise.png', 'emma.png', 'nabe.png', 'eriri.jpg', 'haruhi.jpg', //6
   'hinata.png', 'jibril.jpg', 'kyaru.png', 'megumin.jpg', 'midori.jpg', 'mimimi.jpg', //6
   'nodoka.png', 'olivia.png', 'rebecca.jpg', 'rem.jpg', 'rumia.jpg', 'sinon.jpg', //6
